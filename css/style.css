@@ -1,0 +1,317 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+img {
+    vertical-align: middle;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+body {}
+
+.wrapper_full {
+    width: 100%;
+}
+
+.wrapper {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.clr {
+    clear: both;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+    font-family: Georgia, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    font-weight: 400;
+    color: #2d3950;
+}
+
+h3 {
+    font-weight: 400;
+    color: #2d3950;
+}
+
+p {
+    font-family: Georgia, serif;
+    color: #999999;
+}
+
+
+/* head part start */
+
+.head_part {
+    background: url(../images/heading.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+
+}
+
+.overlay_banner {
+    background: rgba(213, 181, 141, 0.63);
+
+}
+
+.head {}
+
+.head img {}
+
+.name {
+    background: #fcfdf8;
+    padding-top: 80px;
+}
+
+.name h1 {
+    color: #000;
+    font-size: 70px;
+
+}
+
+.name h3 {
+    color: #000;
+    font-size: 25px;
+    padding: 15px 0;
+}
+
+/* head part end */
+
+
+/* ACH part start */
+
+.ach_part {
+    padding: 22px;
+    background: #d5b58d;
+}
+
+.ach {
+    height: 170px;
+    width: 170px;
+    background: #fcfdf8;
+    text-align: center;
+    float: left;
+    margin-right: 25px;
+}
+
+.ach i {
+    font-size: 30px;
+    line-height: 3;
+    color: #a8a38e;
+}
+
+.ach p {
+    color: #a8a38e;
+    font-size: 25px;
+}
+
+/* ACH part end */
+
+
+/* search part start */
+.search_part {
+    background: #d5b58d;
+    padding-bottom: 25px;
+}
+
+.search {
+    background: #bdab93;
+    padding: 20px 0;
+}
+
+.search h1 {
+
+    padding: 40px 70px;
+    font-family: Georgia, serif;
+    font-size: 36px;
+    line-height: 45px;
+    font-weight: 400;
+    letter-spacing: 3.6px;
+    text-transform: uppercase;
+    color: #fcfdf8;
+}
+
+.search p {
+    padding: 0 50px;
+    font-family: Georgia, serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #fcfdf8;
+    text-align: center;
+    margin-bottom: 40px;
+
+}
+
+.search a {
+    color: #bdab93;
+    padding: 20px;
+    background: #fcfdf8;
+    margin-left: 225px;
+}
+
+.find {
+    background: #fcfdf8;
+    padding: 25px 0;
+}
+
+.find h1 {
+    color: #bdab93;
+    font-family: Georgia, serif;
+    font-size: 36px;
+    font-weight: 400;
+    letter-spacing: 3.6px;
+}
+
+.find h4 {
+    color: #bdab93;
+
+}
+
+.sn {
+    background: #bdab93;
+    padding: 15px 0;
+    text-align: center;
+    
+
+}
+
+.sn p {
+    color: #fcfdf8;
+    font-size: 15px;
+}
+
+/* search part end */
+
+/* travel part start */
+
+.travel_part {
+    background: #d5b58d;
+    
+}
+
+.travel {
+   float: left;
+    
+}
+
+.img {
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+.img img {
+    width: 100%;
+}
+
+.content {
+    width: 300px;
+    height: 270px;
+    float: left;
+     background: #bdab93;
+}
+
+.content h1 {
+    font-family: Georgia, serif;
+    font-size: 36px;
+    color: #fcfdf8;
+    padding: 20px 0 15px 0;
+}
+
+.content p {
+    font-family: Georgia, serif;
+    font-size: 14px;
+   line-height: 20px;
+    color: #fcfdf8;
+    text-align: center;
+    padding: 0 10px;
+}
+
+/* travel part end */
+
+/* contact part start */
+
+.contact_part{
+    background: #d5b58d;
+}
+
+.contact{
+    text-align: center;
+     background: #fcfdf8;
+    padding: 30px 0 40px 0;
+}
+
+.contact h1{
+    font-family: Georgia, serif;
+    font-size: 36px;
+    color: #000;
+   letter-spacing: 3.5px;
+    
+}
+
+.contact p{
+     font-family: Georgia, serif;
+    font-size: 20px;
+    color: #aaa0a0;
+    line-height: 30px;
+    margin: 10px 0;
+      
+}
+
+.sm{
+    text-align: center;
+     background: #fcfdf8;
+    margin-left: 258px;
+}
+.sm a{
+ 
+    
+}
+
+.sm a i{
+    font-size: 20px;
+    color: #aaa0a0;
+    float: left;
+     letter-spacing: 15px;
+}
+
+.subscribe{
+    background: #bdab93;
+}
+.copyright p,
+.subscribe p{
+      font-family: Georgia, serif;
+    font-size: 14px;
+    color: #fcfdf8;
+    line-height: 30px;
+   padding: 30px 10px;
+    text-align: center;
+    
+}
+
+.copyright{
+    background: #b2a28c;
+}
+/* contact part end */
